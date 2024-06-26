@@ -1,0 +1,19 @@
+# Calculator Project
+
+This project is a simple calculator application built in Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Getting Started
+
+To use the calculator, clone the repository and run the `calculator.py` script:
+
+```bash
+git clone https://github.com/verony1075/Calculator.git
+cd Calculator
+python calculator.py
